@@ -1,0 +1,30 @@
+room 1 - Grab the key and then run to the door, the key will get used and you can leave.
+
+room 2 - Be careful approaching the far side of the room, going into that area will trigger a surprise spike attack.
+In order to survive you need to briefly inch into the trigger area (which is the entirety of the far right side of the room)
+and then quickly move back to avoid the spikes. Once they are off-screen you are safe and can leave the room.
+
+room 3 - The hint of WSAD revers to the order you should press the buttons in. On a keyboard the layout of the WSAD keys, if viewed
+as arrow keys, will give you the code up, down, left, right. Once you trigger all four buttons in that order they will turn
+green and unlock the door.
+
+room 4 - You need to start running as soon as the room appears. It is possible to reach the exit at the bottom, but there is no time
+for any delays.
+
+room 5 - Another button puzzle, this one is a bit more simple. There are four buttons, three will kill you upon stepping on them but
+one will unlock the door. The correct button is the one in the top right corner.
+
+room 6 - For this one you kind of have to feel your way around. However the key presses go like this: left, down, left, up, right, up.
+It's up to you to figure out how long to hold each button for, and if you guess wrong then you're in for a nasty surprise!
+
+room 7 - There are two exits, one will kill you and one won't. You can only use the key once per try. Pick up the key and go the left
+door, the key will unlock the door and you can leave.
+
+room 8 - This room seems very bare, however as you walk to the other side of the room you will end up triggering three spike attacks.
+This is similar the spike attack from room 2. There are two ways to go about surviving the spikes. First, you can use the same method
+you used for getting through room 2. You inch forward enough to trigger the spikes and then step back. Secondly, you can zig zag through the
+room to avoid the spikes. The first one triggers from the bottom, so you would need to pass along the top of the room. The second one triggers
+from the top of the room, so you would need to pass along the bottom of the room. Finally, The third one triggers from the bottom of the room, so you
+would need to pass along the top of the room.
+
+Whoo! You completed the game!
