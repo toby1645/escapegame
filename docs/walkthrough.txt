@@ -4,7 +4,7 @@ room 2 - Be careful approaching the far side of the room, going into that area w
 In order to survive you need to briefly inch into the trigger area (which is the entirety of the far right side of the room)
 and then quickly move back to avoid the spikes. Once they are off-screen you are safe and can leave the room.
 
-room 3 - The hint of WSAD revers to the order you should press the buttons in. On a keyboard the layout of the WSAD keys, if viewed
+room 3 - The hint of WSAD refers to the order you should press the buttons in. On a keyboard the layout of the WSAD keys, if viewed
 as arrow keys, will give you the code up, down, left, right. Once you trigger all four buttons in that order they will turn
 green and unlock the door.
 
